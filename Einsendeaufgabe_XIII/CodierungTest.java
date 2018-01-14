@@ -13,7 +13,6 @@ public class CodierungTest {
         System.out.println();
         try {
             c1.verschluessleText(klarText);
-            System.out.print("Hallo");
         }catch (IllegalArgumentException e){
             System.out.println(e.getMessage());
         }
