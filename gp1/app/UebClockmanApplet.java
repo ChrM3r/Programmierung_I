@@ -1,7 +1,9 @@
+package vfh.gp1.app;
+
 import java.awt.*;
 import java.awt.event.*;
 import java.applet.*;
-import de.vfh.gp1.bib.clockman.*;
+import vfh.gp1.bib.clockman.*;
 
 /**
  * Dateiname	: UebClockmanApplet.java

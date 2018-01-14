@@ -1,4 +1,4 @@
-package de.vfh.gp1.bib.clockman;
+package vfh.gp1.bib.clockman;
 
 import java.applet.*;
 

@@ -1,4 +1,4 @@
-import de.vfh.gp1.bib.clockman.Clockman_Frame;
+import vfh.gp1.bib.clockman.Clockman_Frame;
 
 import java.awt.*;
 

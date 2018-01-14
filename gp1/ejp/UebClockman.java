@@ -1,4 +1,5 @@
-import de.vfh.gp1.bib.clockman.*;
+package vfh.gp1.ejp;
+import vfh.gp1.bib.clockman.*;
 import java.awt.Color;
 
 /**

@@ -7,7 +7,7 @@
  * @author A. Schmidt
  * @version 1.0
  */
-package de.vfh.gp1.bib.clockman;
+package vfh.gp1.bib.clockman;
 
 import java.awt.*;
 import java.awt.event.*;

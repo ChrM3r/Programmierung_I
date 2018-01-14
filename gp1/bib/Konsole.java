@@ -1,4 +1,4 @@
-package vfh;
+package vfh.gp1.bib;
 
 /**
  * Ueberschrift:   Konsole Bibliothek
