@@ -21,7 +21,6 @@ public class Uebung1_Quadrat {
   public static double feet_in_meters (double l_feet, double w_feet){
 
       return (l_feet * w_feet)* CONERVERSIION_RATE;
-      System.out.println("GitOnline-Test");
   }
 }
 
