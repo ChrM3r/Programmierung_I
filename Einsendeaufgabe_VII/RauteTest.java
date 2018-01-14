@@ -23,7 +23,7 @@ public class RauteTest {
         r2.erstelleRaute();
         System.out.println();
 
-        Raute r3 = new Raute(14,"*+*+");
+        Raute r3 = new Raute(16,"*+*+");
         System.out.println("Raute 3: \n");
         r3.erstelleRaute();
         System.out.println();
