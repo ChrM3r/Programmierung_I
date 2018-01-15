@@ -1,6 +1,6 @@
 package vfh.Einsendeaufgabe_XIII;
 
-import vfh.gp1.bib.Konsole;
+import vfh.EinleseMethode.Konsole;
 
 public class CodierungTest {
 
